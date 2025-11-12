@@ -1,5 +1,6 @@
 ----SQL Learning Journey
 
+
 This repository contains my SQL learning journey.
 
 I update it regularly with notes and practice queries.
@@ -40,7 +41,10 @@ Normalization
 
 SQL constraints
 
+
 ---Tools I Am Using
+
+
 
 MySQL / PostgreSQL
 
@@ -49,6 +53,8 @@ VS Code
 MySQL Workbench / DBeaver
 
 Git and GitHub
+
+
 
 About Me
 
